@@ -55,3 +55,29 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     display: flex;
     flex-direction: row-reverse;
 }
+
+#ejercicioSiete {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+ }
+
+ #elementoUno {
+    display: flex;
+    align-self: flex-end;
+ }
+
+ #elementoDos {
+    display: flex;
+    align-self: center;
+ }
+
+ #elementoTres {
+    display: flex;
+    align-self: flex-start;
+ }
+
+ #elementoCuatro {
+    display: flex;
+    align-self: center;
+ }
